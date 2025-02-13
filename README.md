@@ -1,6 +1,6 @@
 # Goemon 64: Recompiled Symbols
 
-This repo contains the symbol files used by the [recompiler](https://github.com/N64Recomp/N64Recomp) to generate the code for the [Goemon 64: Recompiled project](https://github.com/Zelda64Recomp/Zelda64Recomp).
+This repo contains the symbol files used by the [recompiler](https://github.com/N64Recomp/N64Recomp) to generate the code for the [Goemon 64: Recompiled project](https://github.com/klorfmorf/Goemon64Recomp).
 These files were generated from the [Mystical Ninja Starring Goemon decompilation project](https://github.com/klorfmorf/mnsg), which allows the recompilation project to use function and variable names from the decompilation to help with writing patches.
 
 This is a separate repo from the main one so that mods can reference just this repo instead of the recompilation's entire repo. It also helps avoid bloating the main repo's size and history, as the symbol files are very large.
