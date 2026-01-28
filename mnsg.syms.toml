@@ -7029,8 +7029,6 @@ relocs = [
     { type = "R_MIPS_LO16", vram = 0x0800602C, target_vram = 0x08005F2C },
     { type = "R_MIPS_HI16", vram = 0x0800613C, target_vram = 0x08006048 },
     { type = "R_MIPS_LO16", vram = 0x08006148, target_vram = 0x08006048 },
-    { type = "R_MIPS_HI16", vram = 0x080061B0, target_vram = 0x08001390 },
-    { type = "R_MIPS_LO16", vram = 0x080061B4, target_vram = 0x08001390 },
     { type = "R_MIPS_HI16", vram = 0x080062C0, target_vram = 0x08006778 },
     { type = "R_MIPS_LO16", vram = 0x080062C4, target_vram = 0x08006778 },
     { type = "R_MIPS_HI16", vram = 0x08006324, target_vram = 0x08006778 },
